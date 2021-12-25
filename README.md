@@ -6,4 +6,4 @@ Quick template for your link site. Just add your links to the href attributes!
 ![alt text](https://raw.githubusercontent.com/ridvanozcan/yourlinksite/main/websiteimage.png?token=AFQOQ4G2HYL2URUWI43GR6DBY3UKQ)
 
 # Demo
-[a link](https://ridvanozcan.com.tr)
+[ridvanozcan.com.tr](https://ridvanozcan.com.tr)
